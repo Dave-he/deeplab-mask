@@ -3,3 +3,4 @@ __pycache__
 /models
 /test_output
 /data
+.DS_Store
